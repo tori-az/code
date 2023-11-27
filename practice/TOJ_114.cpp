@@ -1,4 +1,5 @@
 // https://toj.tfcis.org/oj/pro/114/
+// 二維陣列
 #include<bits/stdc++.h>
 #pragma GCC optimize("Ofast", "unroll-all-loops")
 #define fastio ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
