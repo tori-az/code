@@ -15,7 +15,7 @@ signed main(void){
         cin >> x;
         cnt[x]++;
     }
-    for(auto it = cnt.begin(); it != cnt.end(); it++){
+    for(auto it = cnt.begin(); it != cnt.end(); it++){ // 指標
         if(it -> second > tmp){  // = if((*it).second > tmp)
             tmp = it -> second;
             ind = it -> first;
