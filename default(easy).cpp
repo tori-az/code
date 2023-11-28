@@ -11,3 +11,5 @@ int main(){
 }
 
 // https://cp.wiwiho.me/io-optimize/ I/O 優化
+// #define 的用法：#define (要替換成的語句) (要被替換的程式碼)
+// 承上，可以換行，但是太醜(競程)通常不會用到
