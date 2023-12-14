@@ -15,4 +15,4 @@ int main(){
     else    cout << "NO" << endl;
     return 0;
 }
-// 更多酷酷的庫(?)：https://en.cppreference.com/w/
+// https://en.cppreference.com/w/
