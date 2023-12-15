@@ -3,7 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int n, ans = -1;
-int ind = -1; // 使用 index 作為變數名稱，會在全華上 CE
+int ind = -1; // 在全華上使用 index 作為變數名稱會 CE
 
 int main(){
     cin >> n;
