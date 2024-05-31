@@ -18,7 +18,7 @@ signed main(void){
     cin >> s;
     sort(s.begin(), s.end());
     do{
-        for(auto i : s){
+        for(const auto i : s){
             v.emplace_back(i);
         }
     }while(next_permutation(s.begin(), s.end()));
